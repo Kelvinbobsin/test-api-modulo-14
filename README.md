@@ -1,7 +1,7 @@
 # Testes API - EBAC
-## Exercício para os alunos de Qualidade de software da EBAC
+### Exercício para os alunos de Qualidade de software da EBAC
 ## Clonando e executando em sua máquina
-## Pré-requisito:
+### Pré-requisito:
 -Node.js - Você encontra em: https://nodejs.org/en/
 
 -Visual Studio Code ou qualquer editor de texto - você encontra em: https://code.visualstudio.com/download
